@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h2 align="center">Hi There<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Hardik Sorathiya.<br> Nice to meet you!</h2>
+<h2 align="center">Hi There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25"> I'm Hardik Sorathiya.
 
 <details>
 
