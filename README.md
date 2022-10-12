@@ -20,10 +20,9 @@
 </details>
 
 <br />
-
-<h3 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h3>
-<p align="left">
- 
+<h3 align="center"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" m> 
+<p>
+<br />
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="#" height="30" width="30"/> </a>
 &nbsp;
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="#" height="30" width="30"/> </a>
@@ -33,6 +32,7 @@
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="#" height="30" width="30"/> </a>
 &nbsp;
 </p>
+ </h3>
 
 <br />
 
