@@ -11,10 +11,10 @@
 <summary> <h4> Click for GitHub Stats & Activity Graph 🚀 </h4> </summary>
   
   
-[![Hardik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hardik6869&theme=react-dark)](hardik6869)
-| ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardik6869&show_icons=true&theme=gotham) | ![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik6869&theme=gotham) |
-| --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik6869&layout=compact&theme=gotham)](https://github.com/hardik6869/github-readme-stats)
+<!-- ![Hardik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hardik6869&theme=react-dark)](hardik6869) -->
+![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardik6869&show_icons=true&theme=gotham)
+![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik6869&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik6869&layout=compact&theme=gotham)](https://github.com/hardik6869/github-readme-stats)
 
 
 </details>
