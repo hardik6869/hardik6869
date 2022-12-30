@@ -11,11 +11,11 @@
 <summary> <h4> Click for GitHub Stats & Activity Graph 🚀 </h4> </summary>
   
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hardik6869&bg_color=000000&color=ffa305&line=8b7e7e&point=ffa305&area=true&hide_border=true)](https://github.com/hardik6869)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hardik6869&show_icons=true&theme=gotham)](https://github.com/hardik6869)
 ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardik6869&show_icons=true&theme=gotham)
 ![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik6869&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik6869&layout=compact&theme=gotham)](https://github.com/hardik6869/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik6869&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
