@@ -25,11 +25,11 @@
 <br />
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="#" height="30" width="30"/> </a>
 &nbsp;
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="#" height="30" width="30"/> </a>
+<a href="https://www.linkedin.com/in/hardik-sorathiya-50965917a/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="#" height="30" width="30"/> </a>
 &nbsp;
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="#" height="30" width="30"/> </a>
 &nbsp;
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="#" height="30" width="30"/> </a>
+<a href="https://github.com/hardik6869" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="#" height="30" width="30"/> </a>
 &nbsp;
 </p>
  </h3>
