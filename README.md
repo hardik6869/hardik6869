@@ -41,7 +41,6 @@
 
 </details>
 
-<br />
 <h3 align="center"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" m> 
 <p>
 <br />
@@ -55,6 +54,3 @@
 &nbsp;
 </p>
  </h3>
-
-<br />
-
