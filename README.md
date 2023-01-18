@@ -8,7 +8,7 @@
    <br>
   </h2>
 
- <h4 align="center"> ⚡ Tech Stack </h4>
+ <h4 align="center">  🚀 Tech Stack </h4>
  <h4 align="center">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,17 +31,16 @@
  
 
 <details>
-<summary> <h4> Click for GitHub Stats & Activity Graph 🚀 </h4> </summary>
+<summary> <h4>  ⚡   Click for GitHub Stats & Activity Graph ⚡  </h4> </summary>
  
 [![Hardik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hardik6869&show_icons=true&show_icons=true&theme=gotham)](https://github.com/hardik6869/hardik6869)
 ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardik6869&show_icons=true&theme=gotham)
 ![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik6869&theme=gotham)
-
 [![Hardik's Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik6869&show_icons=true&theme=gotham)](https://github.com/hardik6869/github-readme-stats)
 
 </details>
 
-<h3 align="center"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" m> 
+<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"/> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" /> 
 <p>
 <br />
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="#" height="30" width="30"/> </a>
@@ -53,4 +52,4 @@
 <a href="https://github.com/hardik6869" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="#" height="30" width="30"/> </a>
 &nbsp;
 </p>
- </h3>
+</h3>
