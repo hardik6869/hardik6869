@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+there+%2C+I'm+Hardik+Sorathiya+;Multi+Stack+Developer+)](https://git.io/typing-svg) -->
 
 <p align="center">
-  <img src="https://github.com/hardik6869/Practical_Image/blob/main/github_image.jpg?raw=true" width="100%" height="380" />
+  <img src="https://github.com/hardik6869/Practical_Image/blob/main/github_image.jpg?raw=true" />
 </p>
 
 <h2 align="center">Hi There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25"> I'm Hardik Sorathiya.
