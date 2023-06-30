@@ -33,7 +33,7 @@
 <details>
 <summary> <h4>  ⚡   Click for GitHub Stats & Activity Graph ⚡  </h4> </summary>
  
-[![Hardik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hardik6869&show_icons=true&show_icons=true&theme=gotham)](https://github.com/hardik6869/hardik6869)
+[![Hardik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hardik6869&show_icons=true&theme=gotham)](https://github.com/hardik6869/github-readme-activity-graph)]
 ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardik6869&show_icons=true&theme=gotham)
 ![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik6869&theme=gotham)
   
