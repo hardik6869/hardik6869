@@ -34,8 +34,8 @@
 <summary> <h4>  ⚡   Click for GitHub Stats & Activity Graph ⚡  </h4> </summary>
  
 [![Hardik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hardik6869&show_icons=true&theme=gotham)](https://github.com/hardik6869/github-readme-activity-graph)
-[![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik6869&show_icons=true&theme=default&card_width=250)](https://github.com/hardik6869/github-readme-stats)
-![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik6869)
+[![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik6869&show_icons=true&theme=default&card_width=500)](https://github.com/hardik6869/github-readme-stats)
+![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik6869&card_width=500)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik6869&layout=donut-vertical)](https://github.com/hardik6869/github-readme-stats)
 
 </details>
