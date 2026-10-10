@@ -1,56 +1,146 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+there+%2C+I'm+Hardik+Sorathiya+;Multi+Stack+Developer+)](https://git.io/typing-svg) -->
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/hardik6869/Practical_Image/blob/main/github_image.jpg?raw=true" />
-</p>
+<h1>Hardik Sorathiya</h1>
 
-<h2 align="center">Hi There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25"> I'm Hardik Sorathiya.
-   <br>
-  </h2>
+<h3>Software Engineer | React.js &amp; Next.js Developer</h3>
 
- <h4 align="center">  🚀 Tech Stack 🚀 </h4>
- <h4 align="center">
+<a href="https://github.com/hardik6869">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=620&height=45&lines=React.js+%7C+Next.js;TypeScript+%7C+JavaScript+(ES6%2B);Scalable+Frontend+Architecture;AI-Assisted+Development" alt="Typing animation: React.js, Next.js, TypeScript, AI-Assisted Development" />
+</a>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- 
+<br/>
 
-<details>
-<summary> <h4>  ⚡   Click for GitHub Stats & Activity Graph ⚡  </h4> </summary>
- 
-[![Hardik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hardik6869&show_icons=true&theme=gotham)](https://github.com/hardik6869/github-readme-activity-graph)
-[![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik6869&show_icons=true&theme=default&card_width=500)](https://github.com/hardik6869/github-readme-stats)
-![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik6869&card_width=500)
-<bt />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik6869&layout=donut-vertical)](https://github.com/hardik6869/github-readme-stats)
+![Experience](https://img.shields.io/badge/Experience-4.5%2B_Years-1e3a8a?style=for-the-badge&labelColor=0b1020)
+![Focus](https://img.shields.io/badge/Focus-Frontend_Engineering-61DAFB?style=for-the-badge&labelColor=0b1020)
+![AI](https://img.shields.io/badge/Workflow-AI--Assisted-8b5cf6?style=for-the-badge&labelColor=0b1020)
+![Learning](https://img.shields.io/badge/Learning-MERN_Stack-47A248?style=for-the-badge&labelColor=0b1020)
 
-</details>
+<br/>
 
-<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"/> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" /> 
-<p>
-<br />
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="#" height="30" width="30"/> </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/hardik-sorathiya-50965917a/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="#" height="30" width="30"/> </a>
-&nbsp;
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="#" height="30" width="30"/> </a>
-&nbsp;
-<a href="https://github.com/hardik6869" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="#" height="30" width="30"/> </a>
-&nbsp;
-</p>
-</h3>
+<a href="https://www.linkedin.com/in/sorathiya-hardik/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="https://github.com/hardik6869">
+  <img src="https://img.shields.io/badge/GitHub-hardik6869-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://github.com/hardik6869?tab=followers">
+  <img src="https://img.shields.io/github/followers/hardik6869?style=for-the-badge&logo=github&color=1e3a8a&labelColor=0b1020" alt="GitHub followers" />
+</a>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+Software Engineer with **Nearly 5 years of experience of experience** specializing in frontend development with **React.js, Next.js, TypeScript, and JavaScript**. I build scalable web applications, reusable component architectures, and reliable user experiences, with hands-on experience in API integration, role-based access control, dynamic forms, and performance optimization.
+
+I care about clean, maintainable code and solving complex engineering problems. I also use AI-assisted tools such as **Claude Code** and **GitHub Copilot** to speed up feature development, debugging, refactoring, and day-to-day workflows.
+
+Currently expanding my backend skills in **Node.js, Express.js, and MongoDB** to grow toward **MERN Stack and Full Stack** development.
+
+<br/>
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+| :-- | :-- |
+| **Frontend** | ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **State & Data Fetching** | ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) |
+| **UI Development** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **APIs & Architecture** | ![REST APIs](https://img.shields.io/badge/REST_APIs-0b1020?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Auth](https://img.shields.io/badge/Authentication_%26_Authorization-0b1020?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-0b1020?style=flat-square) ![Microfrontends](https://img.shields.io/badge/Microfrontends-0b1020?style=flat-square) ![Monorepo](https://img.shields.io/badge/Monorepo-0b1020?style=flat-square) |
+| **Testing & Quality** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black) ![Husky](https://img.shields.io/badge/Husky-0b1020?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) |
+
+<br/>
+
+## 🤖 AI-Assisted Development
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Claude Code</h3>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+      <ul>
+        <li>AI-assisted feature development</li>
+        <li>Debugging and code refactoring</li>
+        <li>Developer workflow automation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>GitHub Copilot</h3>
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+      <ul>
+        <li>Faster, more consistent coding</li>
+        <li>Inline suggestions and code completion</li>
+        <li>AI-powered development workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+> I use AI as an accelerator, not a replacement for engineering judgment: every change is reviewed, tested, and kept maintainable.
+
+<br/>
+
+## 🎯 What I Focus On
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🏗️ Frontend Architecture</b><br/>
+      Scalable, modular structures, including microfrontend and monorepo setups
+    </td>
+    <td width="33%" valign="top">
+      <b>🧩 Reusable Components</b><br/>
+      Consistent, dynamic, and composable UI building blocks
+    </td>
+    <td width="33%" valign="top">
+      <b>⚡ Performance</b><br/>
+      Efficient rendering, data fetching, and optimized user experience
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🔌 API Integration</b><br/>
+      REST and GraphQL, authentication, and role-based access control
+    </td>
+    <td width="33%" valign="top">
+      <b>🧼 Maintainable Code</b><br/>
+      Clean code, automated testing, linting, and formatting standards
+    </td>
+    <td width="33%" valign="top">
+      <b>📚 Continuous Learning</b><br/>
+      Modern tools, AI workflows, and full-stack skills
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🌱 Learning Journey: Toward MERN Stack
+
+<div align="center">
+
+| Professional Experience | Currently Learning |
+| :--: | :--: |
+| React.js, Next.js, TypeScript, JavaScript | Node.js |
+| State management, REST and GraphQL APIs | Express.js |
+| Testing, performance, frontend architecture | MongoDB |
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sorathiya-hardik/">
+  <img src="https://img.shields.io/badge/LinkedIn-sorathiya--hardik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: sorathiya-hardik" />
+</a>
+<a href="https://github.com/hardik6869">
+  <img src="https://img.shields.io/badge/GitHub-hardik6869-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: hardik6869" />
+</a>
+
+</div>
