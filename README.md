@@ -120,27 +120,24 @@ Currently expanding my backend skills in **Node.js, Express.js, and MongoDB** to
 
 ## 🌱 Learning Journey: Toward MERN Stack
 
+Building on my frontend experience, I'm learning backend development to grow toward full-stack engineering.
+
 <div align="center">
 
-| Professional Experience | Currently Learning |
-| :--: | :--: |
-| React.js, Next.js, TypeScript, JavaScript | Node.js |
-| State management, REST and GraphQL APIs | Express.js |
-| Testing, performance, frontend architecture | MongoDB |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## 🤝 Open to Freelance Work
+
+Open to freelance work in **React.js, Next.js, and TypeScript**. Feel free to reach out.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sorathiya-hardik/">
-  <img src="https://img.shields.io/badge/LinkedIn-sorathiya--hardik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: sorathiya-hardik" />
+  <img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message Hardik on LinkedIn" />
 </a>
-<a href="https://github.com/hardik6869">
-  <img src="https://img.shields.io/badge/GitHub-hardik6869-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: hardik6869" />
-</a>
-
-</div>
