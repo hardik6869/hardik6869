@@ -10,10 +10,9 @@
 
 <br/>
 
-![Experience](https://img.shields.io/badge/Experience-4.5%2B_Years-1e3a8a?style=for-the-badge&labelColor=0b1020)
+![Experience](https://img.shields.io/badge/Experience-Nearly_5_Years-1e3a8a?style=for-the-badge&labelColor=0b1020)
 ![Focus](https://img.shields.io/badge/Focus-Frontend_Engineering-61DAFB?style=for-the-badge&labelColor=0b1020)
-![AI](https://img.shields.io/badge/Workflow-AI--Assisted-8b5cf6?style=for-the-badge&labelColor=0b1020)
-![Learning](https://img.shields.io/badge/Learning-MERN_Stack-47A248?style=for-the-badge&labelColor=0b1020)
+![Freelance](https://img.shields.io/badge/Open_to-Freelance_Work-27c93f?style=for-the-badge&labelColor=0b1020)
 
 <br/>
 
@@ -23,9 +22,6 @@
 <a href="https://github.com/hardik6869">
   <img src="https://img.shields.io/badge/GitHub-hardik6869-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-<a href="https://github.com/hardik6869?tab=followers">
-  <img src="https://img.shields.io/github/followers/hardik6869?style=for-the-badge&logo=github&color=1e3a8a&labelColor=0b1020" alt="GitHub followers" />
-</a>
 
 </div>
 
@@ -33,11 +29,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **Nearly 5 years of experience of experience** specializing in frontend development with **React.js, Next.js, TypeScript, and JavaScript**. I build scalable web applications, reusable component architectures, and reliable user experiences, with hands-on experience in API integration, role-based access control, dynamic forms, and performance optimization.
-
-I care about clean, maintainable code and solving complex engineering problems. I also use AI-assisted tools such as **Claude Code** and **GitHub Copilot** to speed up feature development, debugging, refactoring, and day-to-day workflows.
-
-Currently expanding my backend skills in **Node.js, Express.js, and MongoDB** to grow toward **MERN Stack and Full Stack** development.
+Software Engineer with **nearly 5 years of experience** specializing in frontend development with **React.js, Next.js, TypeScript, and JavaScript**. I build scalable web applications and reliable user experiences, with a strong focus on clean, maintainable code and solving complex engineering problems.
 
 <br/>
 
@@ -73,7 +65,6 @@ Currently expanding my backend skills in **Node.js, Express.js, and MongoDB** to
       <ul>
         <li>Faster, more consistent coding</li>
         <li>Inline suggestions and code completion</li>
-        <li>AI-powered development workflows</li>
       </ul>
     </td>
   </tr>
@@ -87,31 +78,23 @@ Currently expanding my backend skills in **Node.js, Express.js, and MongoDB** to
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <b>🏗️ Frontend Architecture</b><br/>
       Scalable, modular structures, including microfrontend and monorepo setups
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <b>🧩 Reusable Components</b><br/>
-      Consistent, dynamic, and composable UI building blocks
-    </td>
-    <td width="33%" valign="top">
-      <b>⚡ Performance</b><br/>
-      Efficient rendering, data fetching, and optimized user experience
+      Consistent, dynamic, and composable UI building blocks, including dynamic forms
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <b>⚡ Performance</b><br/>
+      Efficient rendering, data fetching, and optimized user experience
+    </td>
+    <td width="50%" valign="top">
       <b>🔌 API Integration</b><br/>
       REST and GraphQL, authentication, and role-based access control
-    </td>
-    <td width="33%" valign="top">
-      <b>🧼 Maintainable Code</b><br/>
-      Clean code, automated testing, linting, and formatting standards
-    </td>
-    <td width="33%" valign="top">
-      <b>📚 Continuous Learning</b><br/>
-      Modern tools, AI workflows, and full-stack skills
     </td>
   </tr>
 </table>
@@ -141,3 +124,5 @@ Open to freelance work in **React.js, Next.js, and TypeScript**. Feel free to re
 <a href="https://www.linkedin.com/in/sorathiya-hardik/">
   <img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message Hardik on LinkedIn" />
 </a>
+
+</div>
