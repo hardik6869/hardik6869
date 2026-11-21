@@ -10,7 +10,7 @@
 
 <br/>
 
-![Experience](https://img.shields.io/badge/Experience-Nearly_5_Years-1e3a8a?style=for-the-badge&labelColor=0b1020)
+![Experience](https://img.shields.io/badge/Experience-4%2B_Years-1e3a8a?style=for-the-badge&labelColor=0b1020)
 ![Focus](https://img.shields.io/badge/Focus-Frontend_Engineering-61DAFB?style=for-the-badge&labelColor=0b1020)
 ![Open to Work](https://img.shields.io/badge/Open_to-Work-27c93f?style=for-the-badge&labelColor=0b1020)
 ![Freelance](https://img.shields.io/badge/Available_for-Freelance-27c93f?style=for-the-badge&labelColor=0b1020)
@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **nearly 5 years of experience** specializing in frontend development with **React.js, Next.js, TypeScript, and JavaScript**. I build scalable web applications and reliable user experiences, with a strong focus on clean, maintainable code and solving complex engineering problems.
+Software Engineer with **4+ years of experience** specializing in frontend development with **React.js, Next.js, TypeScript, and JavaScript**. I build scalable web applications and reliable user experiences, with a strong focus on clean, maintainable code and solving complex engineering problems.
 
 I've also been expanding into backend development with **Node.js, Express, and MongoDB**, building full-stack applications like LearnHub below.
 
